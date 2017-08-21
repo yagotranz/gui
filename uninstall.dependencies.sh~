@@ -11,4 +11,4 @@ apt-get --purge remove npm\* --assume-yes
 
 apt autoremove --assume-yes
 
-rm ~/Escritorio/gui
+rm ~/Escritorio/guiTranz
